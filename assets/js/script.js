@@ -31,8 +31,8 @@ const images = [
 ];
 
 const imagesMessages = {
-  './assets/image/image1.png': 'Maxime, le Serveur',
-  './assets/image/image2.png': 'Maxime, le Barman',
+  './assets/image/image1.png': '🎉 Maxime, le Serveur',
+  './assets/image/image2.png': '🎉 Maxime, le Barman',
 
 };
 
