@@ -25,11 +25,15 @@ context.scale(devicePixelRatio, devicePixelRatio);
 
 // ---------- Image aléatoire + message avec mémoire localStorage ----------
 const images = [
-  './assets/image/image.png',
+  './assets/image/image1.png',
+  './assets/image/image2.png',
+
 ];
 
 const imagesMessages = {
-  './assets/image/image.png': '',
+  './assets/image/image1.png': 'Maxime, le Serveur',
+  './assets/image/image2.png': 'Maxime, le Barman',
+
 };
 
 // Récupérer la dernière image depuis localStorage
