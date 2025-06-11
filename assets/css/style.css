@@ -6,6 +6,7 @@ body {
   min-height: 80vh;
   row-gap: 1em;
   background: url(/assets/image/bg.jpg);
+  background-size: cover;
   /*background-image: radial-gradient(circle, #fff 60%, #cfcecb);*/
   font: 0.9em sans-serif;
   font-weight: bold;
