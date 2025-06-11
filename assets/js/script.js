@@ -27,12 +27,14 @@ context.scale(devicePixelRatio, devicePixelRatio);
 const images = [
   './assets/image/image1.png',
   './assets/image/image2.png',
+  './assets/image/image3.png',
 
 ];
 
 const imagesMessages = {
-  './assets/image/image1.png': '🎉 Maxime, le Serveur',
-  './assets/image/image2.png': '🎉 Maxime, le Barman',
+  './assets/image/image1.png': '🎉 Alexis, pour vous Accueillir...',
+  './assets/image/image2.png': '🎉 Alexandre, pour vos Cocktails...',
+  './assets/image/image3.png': '🎉 Maxime, pour vos Apéritifs...',
 
 };
 
