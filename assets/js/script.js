@@ -30,8 +30,13 @@ const images = [
   './assets/image/image3.png',
   './assets/image/image4.png',
   './assets/image/image5.png',
+  './assets/image/image6.png',
+  './assets/image/image7.png',
+  './assets/image/image8.png',
 
-  //'./assets/image/image6.png',
+  //'./assets/image/image9.png',
+  //'./assets/image/image10.png',
+  //'./assets/image/image11.png',
 
 ];
 
@@ -41,8 +46,13 @@ const imagesMessages = {
   './assets/image/image3.png': '🎉 Maxime, pour vos Apéritifs...',
   './assets/image/image4.png': '🎉 Julie, pour vous Servir...',
   './assets/image/image5.png': '🎉 Francesca, pour vous Servir...',
+  './assets/image/image6.png': '🎉 Arnaud, pour vos Rafraîchissements...',
+  './assets/image/image7.png': '🎉 Loic, pour vos Vins...',
+  './assets/image/image8.png': '🎉 Michael, pour vous Servir...',
 
-  //'./assets/image/image6.png': '🎉 Arnaud, pour vos rafraîchissements...',
+  //'./assets/image/image9.png': '🎉 Angela, pour vos Desserts...',
+  //'./assets/image/image10.png': '🎉 Manon, pour vos Desserts...',
+  //'./assets/image/image11.png': '🎉 Juliette, pour vos Desserts...',
 
 };
 
