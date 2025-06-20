@@ -159,6 +159,7 @@ body {
     color: gray;
 }*/
 
+
 /* ========== BUTTON ========== */
 
 /* Defs */
@@ -175,7 +176,6 @@ body {
 }
 
 /* Base Styles */
-
 :root {
   --global--size: clamp(2rem, 4vw, 5rem);
   --anim--hover-time: 400ms;
@@ -284,7 +284,7 @@ button span {
   letter-spacing: -0.05em;
   font-weight: 500;
   font-size: 1em;
-  color: rgba(50, 50, 50, 1);
+  color: gray;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-shadow: 0em 0.25em 0.05em rgba(0, 0, 0, 0.1);
