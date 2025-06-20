@@ -189,3 +189,7 @@ const plot = (e) => {
     }, 5);
   }
 };
+
+document.getElementById('reloadButton').addEventListener('click', function() {
+  location.reload(); // Recharge la page
+});
