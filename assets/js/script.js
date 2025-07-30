@@ -36,7 +36,7 @@ const images = [
   './assets/image/image9.png',
   //'./assets/image/image10.png',
   './assets/image/image11.png',
-  //'./assets/image/image12.png',
+  './assets/image/image12.png',
   //none
   './assets/image/image14.png',
 
@@ -54,7 +54,7 @@ const imagesMessages = {
   './assets/image/image9.png': '🎉 Angela, pour vos Desserts...',
   //'./assets/image/image10.png': '🎉 Coming Soon, pour vos Desserts...',
   './assets/image/image11.png': '🎉 Juliette, pour vos Desserts...',
-  //'./assets/image/image12.png': '🎉 Tbo, pour vos Soirées...',
+  './assets/image/image12.png': '🎉 Tbo, pour vos Soirées...',
   //none
   './assets/image/image14.png': '🎉 DJ Coil, pour vos Soirées...',
 
