@@ -28,7 +28,7 @@ const images = [
   './assets/image/image1.png',
   './assets/image/image2.png',
   './assets/image/image3.png',
-  './assets/image/image4.png',
+  //'./assets/image/image4.png',
   //'./assets/image/image5.png',
   //'./assets/image/image6.png',
   './assets/image/image7.png',
@@ -39,6 +39,10 @@ const images = [
   './assets/image/image12.png',
   //none
   './assets/image/image14.png',
+  //'./assets/image/image15.png',
+  //'./assets/image/image16.png',
+  //'./assets/image/image17.png',
+  //'./assets/image/image18.png',
 
 ];
 
@@ -46,7 +50,7 @@ const imagesMessages = {
   './assets/image/image1.png': '🎉 Alexis, pour vous Accueillir...',
   './assets/image/image2.png': '🎉 Alexandre, pour vos Cocktails...',
   './assets/image/image3.png': '🎉 Maxime, pour vos Apéritifs...',
-  './assets/image/image4.png': '🎉 Julie, pour vous Servir...',
+  //'./assets/image/image4.png': '🎉 Coming Soon, pour vous Servir...',
   //'./assets/image/image5.png': '🎉 Coming Soon, pour vous Servir...',
   //'./assets/image/image6.png': '🎉 Coming Soon, pour vos Rafraîchissements...',
   './assets/image/image7.png': '🎉 Loic, pour vos Vins...',
@@ -57,6 +61,10 @@ const imagesMessages = {
   './assets/image/image12.png': '🎉 Tbo, pour vos Soirées...',
   //none
   './assets/image/image14.png': '🎉 DJ Coil, pour vos Soirées...',
+  //'./assets/image/image15.png': '🎉 Laura, pour vous Accueillir...',
+  //'./assets/image/image16.png': '🎉 Jo, pour vos Plats...',
+  //'./assets/image/image17.png': '🎉 Momo, pour vos Plats...',
+  //'./assets/image/image18.png': '🎉 Andrew, pour vos Entrées...',
 
 };
 
