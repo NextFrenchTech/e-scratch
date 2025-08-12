@@ -40,9 +40,9 @@ const images = [
   //none
   './assets/image/image14.png',
   //'./assets/image/image15.png',
-  //'./assets/image/image16.png',
-  //'./assets/image/image17.png',
-  //'./assets/image/image18.png',
+  './assets/image/image16.png',
+  './assets/image/image17.png',
+  './assets/image/image18.png',
 
 ];
 
@@ -62,9 +62,9 @@ const imagesMessages = {
   //none
   './assets/image/image14.png': '🎉 DJ Coil, pour vos Soirées...',
   //'./assets/image/image15.png': '🎉 Laura, pour vous Accueillir...',
-  //'./assets/image/image16.png': '🎉 Jo, pour vos Plats...',
-  //'./assets/image/image17.png': '🎉 Momo, pour vos Plats...',
-  //'./assets/image/image18.png': '🎉 Andrew, pour vos Entrées...',
+  './assets/image/image16.png': '🎉 Jo, pour vos Plats...',
+  './assets/image/image17.png': '🎉 Momo, pour vos Plats...',
+  './assets/image/image18.png': '🎉 Andrew, pour vos Entrées...',
 
 };
 
