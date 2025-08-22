@@ -150,14 +150,24 @@ body {
   }
 }
 
-/*.code {
-    font: 0.8em sans-serif;
-    font-weight: bold;
-    color: gray;
-}
 .dev {
-    color: gray;
-}*/
+  position: fixed;       /* reste collé même si on scrolle */
+  bottom: 10px;          /* marge par rapport au bas */
+  right: 10px;           /* marge par rapport à la droite */
+  background: transparent; /* fond transparent */
+  text-decoration: none; /* enlève le soulignement */
+  color: inherit;        /* prend la couleur du texte parent, tu peux la changer */
+  z-index: 1000;         /* reste au-dessus des autres éléments */
+}
+
+.dev .code {
+  background: transparent;
+  color: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
 
 
 /* ========== BUTTON ========== */
