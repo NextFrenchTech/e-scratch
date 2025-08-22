@@ -153,7 +153,7 @@ body {
 .dev {
   position: fixed;
   bottom: 10px;
-  right: 10px;
+  left: 10px;
   background: transparent;
   text-decoration: none;
   z-index: 1000;
