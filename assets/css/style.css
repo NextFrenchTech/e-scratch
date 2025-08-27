@@ -5,9 +5,9 @@ body {
   align-items: center;
   min-height: 80vh;
   row-gap: 1em;
-  background: url(../image/bg.jpg);
+  background: url("../image/bg.jpg") no-repeat center center;
   background-size: cover;
-  /*background-image: radial-gradient(circle, #fff 60%, #cfcecb);*/
+  min-height: 90vh; /* par ex. si c’est censé couvrir l’écran */  /*background-image: radial-gradient(circle, #fff 60%, #cfcecb);*/
   font: 0.9em sans-serif;
   font-weight: bold;
   color: gray;
