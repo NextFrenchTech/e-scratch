@@ -84,7 +84,6 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  /*old interface*/
   width: 100%;
   height: 100%;
   background-color: #cfced6;
@@ -93,8 +92,6 @@ body {
   /*new interface*/
   border-radius: 8px;
   border:  solid #c7c6cf;
-  width: 98.5%;
-  height: 98.5%;
 }
 .scratch-card-cover::before {
   content: "";
