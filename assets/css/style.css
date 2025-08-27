@@ -5,15 +5,13 @@ body {
   align-items: center;
   min-height: 80vh;
   row-gap: 1em;
-  /*old interface*/
-  /*background-image: radial-gradient(circle, #fff 60%, #cfcecb);*/
-  /*new interface*/
   background: url("../image/bg.jpg") no-repeat center center;
   background-size: cover;
-  height: 100%;
+  min-height: 90vh;
+  /*background-image: radial-gradient(circle, #fff 60%, #cfcecb);*/
   font: 0.9em sans-serif;
   font-weight: bold;
-  color: gainsboro;
+  color: gray;
 }
 
 .scratch-card {
@@ -91,7 +89,7 @@ body {
   overflow: hidden;
   /*new interface*/
   border-radius: 8px;
-  border:  solid #c7c6cf;
+  border: 4px solid #c7c6cf;
 }
 .scratch-card-cover::before {
   content: "";
